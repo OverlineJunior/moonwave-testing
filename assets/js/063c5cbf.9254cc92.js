@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[751],{82824:function(e){e.exports=JSON.parse('[{"type":"link","href":"/api/Math","label":"\u200bMath"}]')}}]);
