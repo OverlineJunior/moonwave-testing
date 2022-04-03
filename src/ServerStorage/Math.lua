@@ -13,6 +13,8 @@ local Math = {}
 
     @prop PI number
     @within Math
+
+    LOLOLOLOLOLO
 ]=]
 Math.PI = math.pi
 
